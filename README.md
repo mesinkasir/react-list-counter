@@ -2,6 +2,10 @@
 
 Simple  React to do / weblist and counter apps.
 
+Installation : [https://www.hockeycomputindo.com/2021/02/create-react-todo-list-counter-web-app.html](https://www.hockeycomputindo.com/2021/02/create-react-todo-list-counter-web-app.html)
+
+Video demo [https://www.youtube.com/watch?v=eyFivDfdYlc](https://www.youtube.com/watch?v=eyFivDfdYlc)
+
 -------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
